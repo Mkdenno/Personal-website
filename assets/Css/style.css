@@ -60,7 +60,6 @@ header{
     justify-content: space-around;
     align-items: center;
     margin: 9rem 5rem 3rem 5rem;
-    border: 2px solid red;
 }
 .home img{
     height: 70vh;
@@ -96,7 +95,6 @@ header{
 /* about me */
 .aboutme{
     margin: 9rem 5rem 3rem 5rem;
-    border: 2px solid red;
 }
 .aboutme h1{
     color: white;
@@ -110,15 +108,12 @@ header{
     justify-content: space-around;
     align-items: center;
     margin:3rem 9rem;
-    border: 2px solid red;
 }
 .content .technology-image img{
     width:70%;
-    border: 2px solid red;
 
 }
 .content .mystory{
-    border: 2px solid red;
     width: 100%;
     color: white;
     font-size: 1.5rem;
@@ -126,13 +121,11 @@ header{
 
 /* my projects beging */
 .myprojects{
-    border: 1px solid red;
     display:flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     margin: 9rem 5rem 3rem 5rem;
-    border: 2px solid red;
 }
 .myprojects h1{
     color: white;
@@ -159,7 +152,6 @@ header{
  /* contact page */
  .contact{
     margin: 9rem 5rem 3rem 5rem;
-    border: 2px solid red;
  }
  .contact h1{
      color: white;
@@ -171,11 +163,9 @@ header{
     justify-content: space-around;
     align-items: center;
     margin:3rem 9rem;
-    border: 2px solid red;    
  }
  .form{
      width: 50%;
-     background-color: red;
      display: flex;
      justify-content: center;
      align-items: center;
