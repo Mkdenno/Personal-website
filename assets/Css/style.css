@@ -146,3 +146,55 @@ header{
     text-decoration: none;
     color: white;
 }
+ /* contact page */
+ .contact{
+    margin: 9rem 5rem 3rem 5rem;
+    border: 2px solid red;
+ }
+ .contact h1{
+     color: white;
+     font-size: 3rem;
+
+ }
+ .contactme{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin:3rem 9rem;
+    border: 2px solid red;    
+ }
+ .form{
+     width: 50%;
+     background-color: red;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+     font-size: 1.5rem;
+ }
+ .form input ,textarea{
+     width: 80%;
+     padding: 2rem;
+     border-radius:0.8rem;
+
+ }
+.form button{
+     padding:1rem 5rem;
+     border-radius: 0.8rem;
+ }
+ .form button a{
+     text-decoration: none;
+}
+.form  a .button:hover{
+    background-color: maroon;
+}
+.social{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.social-media{
+    display: flex;
+    
+}
