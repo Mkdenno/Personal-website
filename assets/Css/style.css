@@ -3,3 +3,40 @@
     margin-top: 0;
     box-sizing: border-box;
 }
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    background-color: maroon;
+    position: fixed;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo img{
+    width: 10%;
+    height: 10%;
+    border-radius: 50%;
+    margin-right: 2%;
+
+}
+.logo h2{
+    color: white;
+}
+.links ul{
+    display: flex;
+}
+.links ul li {
+    text-decoration: none;
+    list-style: none;margin: 2em;
+    color: white;
+}
+.links ul li a{
+    text-decoration: none;
+    color: white;
+
+}
+
+/* home */
