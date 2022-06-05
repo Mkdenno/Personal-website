@@ -1,0 +1,28 @@
+.all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+
+}
+.card{
+    margin:1rem;
+    border: 1px solid white;
+}
+.card img{
+    width: 100%;
+    height: 20vh;
+}
+.card h3{
+    color: white;
+    margin-top: 0.3rem;
+    }
+
+.card p{
+color: white;
+}
+.card button{
+    padding: 0.7rem;
+    padding: 0.3rem;
+    margin: 0.5rem;
+}

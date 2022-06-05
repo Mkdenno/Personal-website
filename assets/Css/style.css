@@ -41,7 +41,12 @@ header{
     text-decoration: none;
     list-style: none;
     margin: 2em;
+    padding: 1rem;
     color: white;
+}
+.links ul li:hover{
+    background-color: rgb(19, 17, 17);
+
 }
 .links ul li a{
     text-decoration: none;
@@ -140,11 +145,16 @@ header{
 }
 .myprojects ul li{
     margin: 2rem;
+    padding: 1rem;
     list-style: none;
 }
 .myprojects ul li a{
     text-decoration: none;
     color: white;
+}
+.myprojects ul li:hover{
+    background-color: maroon;
+
 }
  /* contact page */
  .contact{
