@@ -2,9 +2,13 @@ const inputName=document.getElementById("name");
 const inputMail=document.getElementById("mail");
 const inputMassage=document.getElementById("message");
 const buttonEl=document.getElementById("submit");
-const allProjects=document.getElementById("all");
+const all=document.getElementById("all");
 const javaScript=document.getElementById("js");
 const html=document.getElementById("html");
+
+all.addEventListener("click",(e)=>{
+    all.style.display="block";
+})
 
 
 buttonEl.addEventListener("click", (e)=>{
