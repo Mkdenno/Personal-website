@@ -116,7 +116,15 @@ header{
 .content .mystory{
     width: 100%;
     color: white;
-    font-size: 1.5rem;
+    font-size: 1.6rem;
+}
+#more{
+    display:none;
+}
+#button{
+    color: red;
+    cursor: pointer;
+    outline: none;
 }
 
 /* my projects beging */
@@ -181,11 +189,12 @@ header{
 .form button{
      padding:1rem 5rem;
      border-radius: 0.8rem;
+     cursor: pointer;
  }
- .form button a{
+ .form button{
      text-decoration: none;
 }
-.form  a .button:hover{
+.form .button:hover{
     background-color: maroon;
 }
 .social{
@@ -215,4 +224,5 @@ header{
 }
 .social-media i{
     margin: 1.5rem;
+    color: white;
 }
