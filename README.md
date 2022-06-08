@@ -24,7 +24,7 @@ This project is about my portfolio. Where it tells Everything about me and also 
 
 ## Live Link
 
--[Click this link to view the live application]  (https://mkdenno.github.io/Personal-website/)
+*[Click this link to view the live application]  (https://mkdenno.github.io/Personal-website/)
 
 ## LICENSE
 
