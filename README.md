@@ -18,11 +18,13 @@ This project is about my portfolio. Where it tells Everything about me and also 
 
 ## Installation Process
 
--Clone to this repo : git clone https://github.com/Mkdenno/Personal-website
--Unzip the downloaded files in a folder of choice.
--Open the index file from the zipped file with any browser.
-##Live Link
--[Click this link to view the live application]  (https://kipletingedwin.github.io/A-personal-website/)
+* Clone to this repo : git clone https://github.com/Mkdenno/Personal-website
+* Unzip the downloaded files in a folder of choice.
+* Open the index file from the zipped file with any browser.
+* 
+## Live Link
+
+-[Click this link to view the live application]  (https://mkdenno.github.io/Personal-website/)
 
 ## LICENSE
 
