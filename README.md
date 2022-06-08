@@ -1,45 +1,24 @@
 # Personal-website
-It is a website that tell more about my skills as a software developer.
  ## By Dennis Kiprop
 ## Screenshot
 ![Screenshot from 2022-06-06 08-40-58](https://user-images.githubusercontent.com/104482846/172101759-12d6be2e-e1dc-4350-a86d-85500c8cfb41.png)
- ## Table of Content
- - [Description](#description)
- - [Features](#features)
- - [Requirements](#requirements)
- - [Installation Process](#installation-Process)
- - [Live Link](#Live-Link)
- - [Technology  Used](#technology-Used)
- - [Licence](#licence)
- - [Authors Info](#Authors-Info)
- ## Description
- This is a personal website which show details about me
-## Features
-As a user of the application,you will be able to :
-1. See a description of what the services offered by the moving company
-2. Can make inquiry through a form.
-[Go Back to the top](#Personal-website)
- ###  Requirements
- * Access to  a computer or any other garget
- * Access to internet
- ### Installation Process
- ****
-* Clone to the repo : git clone https://github.com/Mkdenno/Personal-website
-* Unzip the downloaded files in a folder of choice.
-* Open the index file from the zipped file with any browser.
- ****
- [Go Back to the top](#Personal-website)
-### Live Link
-- Click this link to view the live application https://mkdenno.github.io/Personal-website/
-### Technology  Used
-* HTML - which was used to develope the structure off the pages.
-* CSS - which was used to style the User Interface.
-* JavaScript - which was used to validate forms.
-[Go Back to the top](#Personal-website)
-## Instructions
-* The website is not responsive can only be used on a desktop
-## Licence
-This project is licensed under the terms of the MIT license
-[Go Back to the top](#Personal-website)
-## Authors Info
-Dennis kiprop Masiror
+## Project Description
+This project is about my portfolio. Where it tells Everything about me and also has my contacts.It also shows my skills and achievements and also the journey that i have gone through while learning software Development
+## Technologies Used
+-HTML - which was used to develope the structure off the pages.
+-CSS - which was used to style the User Interface.
+-JAVASCRIPT - validate the homepage.
+## Installation Process
+-Clone to this repo : git clone https://kipletingedwin.github.io/A-personal-website/
+-Unzip the downloaded files in a folder of choice.
+-Open the index file from the zipped file with any browser.
+##Live Link
+-[Click this link to view the live application]  (https://kipletingedwin.github.io/A-personal-website/)
+## LICENSE
+MIT License
+Copyright (c) [2022] [DENNIS MASIROR]
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT ABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+## AUTHORS INFORMATION
+Email - [Dennis Kiprop] (dennis.kiprop@student.moringaschool.com)
