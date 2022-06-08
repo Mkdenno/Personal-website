@@ -21,7 +21,7 @@ This project is about my portfolio. Where it tells Everything about me and also 
 * Clone to this repo : git clone https://github.com/Mkdenno/Personal-website
 * Unzip the downloaded files in a folder of choice.
 * Open the index file from the zipped file with any browser.
-* 
+
 ## Live Link
 
 -[Click this link to view the live application]  (https://mkdenno.github.io/Personal-website/)
